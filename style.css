@@ -6,7 +6,7 @@ body {
 }
 
 .main {
-  background: url('img/main.jpg') center/cover no-repeat;
+  background: url('main.jpg') center/cover no-repeat;
   height: 80vh;
   color: white;
   display: flex;
